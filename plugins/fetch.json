@@ -1,0 +1,34 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-test-framework": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/apache/cordova-plugin-test-framework.git"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-meteor-webapp": {
+    "source": {
+      "type": "local",
+      "path": "/Users/hwillson/Documents/meteor/2018-01/cordova-test/node_modules/cordova-plugin-meteor-webapp"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-meteor-webapp-tests": {
+    "source": {
+      "type": "local",
+      "path": "/Users/hwillson/Documents/meteor/2018-01/cordova-test/node_modules/cordova-plugin-meteor-webapptests"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
